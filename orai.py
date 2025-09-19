@@ -7,3 +7,5 @@ c = 14
 d = 15
 e = 16
 d = 12
+c = "szöveg"
+print ("smegmasigmant")
