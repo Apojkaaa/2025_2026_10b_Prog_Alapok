@@ -1,7 +1,7 @@
 print ("órai munka")
-nev = "Kis Pista"
+nev = "Sigmakk123"
 b = true
-a = 12
+a = 13
 b = 13
 c = 14
 d = 15
