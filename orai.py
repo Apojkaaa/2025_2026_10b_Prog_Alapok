@@ -1,5 +1,6 @@
 print ("órai munka")
 nev = "Kis Pista"
+b = true
 a = 12
 b = 13
 c = 14
