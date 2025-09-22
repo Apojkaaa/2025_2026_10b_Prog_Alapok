@@ -30,3 +30,4 @@ donor
 békaember.")
  sigma alekosz
  valami
+ változatás
