@@ -9,7 +9,7 @@ e = 16
 d = 12
 c = "szöveg"
 print ("smegmasigmant")
-print ("nemzetközi sztár
+print ("nemzetközi sztár")
 vagyonőr
 taxisofőr
 üzletember
@@ -27,7 +27,7 @@ nemzetbiztonsági kockázati tényező
 a Karinthy-gyűrű várományosa
 istencsapás
 donor
-békaember.")
+békaember.
  sigma alekosz
  valami
  változatás
