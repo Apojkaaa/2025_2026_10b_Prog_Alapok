@@ -28,6 +28,6 @@ print("a Karinthy-gyűrű várományosa")
 print("istencsapás")
 print("donor")
 print("békaember.")
- sigma alekosz
+sigma alekosz
  valami
  változatás
