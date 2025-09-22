@@ -28,3 +28,4 @@ a Karinthy-gyűrű várományosa
 istencsapás
 donor
 békaember.")
+ sigma alekosz
