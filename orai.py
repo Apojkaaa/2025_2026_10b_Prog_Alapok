@@ -29,5 +29,5 @@ print("istencsapás")
 print("donor")
 print("békaember.")
 sigma alekosz
- valami
- változatás
+valami
+változatás
