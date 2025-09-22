@@ -29,3 +29,4 @@ istencsapás
 donor
 békaember.")
  sigma alekosz
+ valami
