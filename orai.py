@@ -11,23 +11,23 @@ c = "szöveg"
 print ("smegmasigmant")
 print ("nemzetközi sztár")
 vagyonőr
-taxisofőr
-üzletember
-etikus hekker
-előadóművész
-értelmiségi
-gróf
-koronaherceg
-civil politikai elemző
-testépítő
-író
-BRFK által megfigyelt, lehallgatott, követett személy
-nemzetbiztonsági kockázati tényező
-állandó stratégiai gócpont
-a Karinthy-gyűrű várományosa
-istencsapás
-donor
-békaember.
+print("taxisofőr")
+print("üzletember")
+print("etikus hekker")
+print("előadóművész")
+print("értelmiségi")
+print("gróf")
+print("koronaherceg")
+print("civil politikai elemző")
+print("testépítő")
+print("író")
+print("BRFK által megfigyelt, lehallgatott, követett személy")
+print("nemzetbiztonsági kockázati tényező")
+print("állandó stratégiai gócpont")
+print("a Karinthy-gyűrű várományosa")
+print("istencsapás")
+print("donor")
+print("békaember.")
  sigma alekosz
  valami
  változatás
