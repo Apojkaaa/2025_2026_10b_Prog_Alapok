@@ -34,3 +34,4 @@ változatás
 print("kesz a hazi")
 
 print ("valami")
+print ("ITT CSAK PÖRÖG A SÓ IDE NEM KELL A BORS")
