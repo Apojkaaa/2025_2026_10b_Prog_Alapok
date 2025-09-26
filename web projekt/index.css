@@ -47,9 +47,14 @@ body {
 }
 
 .images img {
-  display: block; 
-  margin: 0 auto; 
-  max-width: 80%; 
+  display: flex; 
+  justify-content: center; 
+  gap: 20px;
+}
+
+.images.img {
+    height: 200px;
+    width: auto;
 }
 
 table{
