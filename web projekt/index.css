@@ -18,11 +18,24 @@ body {
     color: #333;
 }   
 
-.container {
+body {
+    font-family: Arial, sans-serif;
     text-align: center;
 }
 
-img {
-    max-width: 100%;
+.images.img {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
     height: auto;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
 }
