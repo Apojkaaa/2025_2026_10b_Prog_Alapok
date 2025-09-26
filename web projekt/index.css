@@ -18,13 +18,11 @@ body {
     color: #333;
 }   
 
-.text-center{
+.container {
     text-align: center;
 }
 
-.center-image{
-    display: block;
+img {
+    max-width: 100%;
+    height: auto;
 }
-
-<img src="katika.jpg" class="center-image" alt="Kép">
-<img src="koubász.jpg" class="center-image" alt="Kép">
