@@ -18,13 +18,62 @@ body {
     color: #333;
 }   
 
-.text-center{
+body {
+    font-family: Arial, sans-serif;
     text-align: center;
 }
 
-.center-image{
+.images.img {
     display: block;
+    margin: 0 auto;
+    max-width: 80%;
+    height: auto;
 }
 
-<img src="katika.jpg" class="center-image" alt="Kép">
-<img src="koubász.jpg" class="center-image" alt="Kép">
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: pink;
+  text-align: center;
+}
+
+.images img {
+  display: flex; 
+  justify-content: center; 
+  gap: 20px;
+  margin: auto;
+}
+
+.images.img {
+    height: 200px;
+    width: auto;
+}
+
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    padding: 10px;
+    taxt-align: center;
+}
+
+td img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* .images {
+    text-align: center;
+} */
