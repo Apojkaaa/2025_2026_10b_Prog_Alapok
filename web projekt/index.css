@@ -17,3 +17,14 @@ body {
     line-height: 1.6;
     color: #333;
 }   
+
+.text-center{
+    text-align: center;
+}
+
+.center-image{
+    display: block;
+}
+
+<img src="katika.jpg" class="center-image" alt="Kép">
+<img src="koubász.jpg" class="center-image" alt="Kép">
