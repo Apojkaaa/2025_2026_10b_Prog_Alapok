@@ -50,6 +50,7 @@ body {
   display: flex; 
   justify-content: center; 
   gap: 20px;
+  margin: auto;
 }
 
 .images.img {
@@ -72,3 +73,7 @@ td img {
     display: block;
     margin: 0 auto;
 }
+
+/* .images {
+    text-align: center;
+} */
