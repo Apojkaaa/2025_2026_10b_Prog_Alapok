@@ -20,10 +20,21 @@ a:hover {
     text-decoration: underline;
 }
 
-.images {
-    display: flex;           /* flexbox */
-    justify-content: center; /* középre igazítás */
-    gap: 20px;               /* térköz a képek között */
-    margin: 20px auto;       /* egy kis margó felül és alul, középre */
-    max-width: 80%;
+.images img {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: auto;
+}
+
+.images.img {
+    height: 200px;
+    width: auto;
+}
+
+table {
+    width: 95%;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-collapse: collapse;
 }
