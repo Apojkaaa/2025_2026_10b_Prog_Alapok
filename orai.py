@@ -32,3 +32,6 @@ print("sigma alekosz")
 valami
 változatás
 print("kesz a hazi")
+
+print ("TEAM nosika")
+print ("csak pörög a só ide nem kell a bors")
