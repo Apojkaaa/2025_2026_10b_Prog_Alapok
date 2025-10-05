@@ -32,3 +32,4 @@ print("sigma alekosz")
 valami
 változatás
 print("kesz a hazi")
+print("sigmapor")
