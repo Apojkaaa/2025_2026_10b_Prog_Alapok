@@ -68,3 +68,10 @@ if a + b > c and a + c > b and b + c > a:
         print("Szabályos háromszög.")
     else:
         print("Nem szabályos háromszög.")
+
+# hf python ciklusoknak utanna nézése
+
+# generáljon ki 3  háromjegyű véletlenszerű számot amelyek 13-al oszthatók
+# adja meg az átlagukat
+#állytsa ezeket sorrendbe 
+#van e köztük 4-el végződő
