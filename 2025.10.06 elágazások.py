@@ -48,3 +48,23 @@ else:
 # 1. derékszög e a háromszög 
 # 2. egyenlő szárú e a háromszög
 # 3. szabályos e a háromszög
+# Három oldal bekérése
+a = int(input("Add meg az első oldalt: "))
+b = int(input("Add meg a második oldalt: "))
+c = int(input("Add meg a harmadik oldalt: "))
+
+if a + b > c and a + c > b and b + c > a:
+    print("Ez egy érvényes háromszög.")
+
+    if a*a + b*b == c*c or a*a + c*c == b*b or b*b + c*c == a*a:
+        print("Derékszögű háromszög.")
+    else:
+        print("Nem derékszögű háromszög.")
+    if a == b or a == c or b == c:
+        print("Egyenlő szárú háromszög.")
+    else:
+        print("Nem egyenlő szárú háromszög.")
+    if a == b and b == c:
+        print("Szabályos háromszög.")
+    else:
+        print("Nem szabályos háromszög.")
