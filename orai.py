@@ -32,10 +32,7 @@ print("sigma alekosz")
 valami
 változatás
 print("kesz a hazi")
-<<<<<<< HEAD
 print("sigmapor")
-=======
 
 print ("valami")
 print ("ITT CSAK PÖRÖG A SÓ IDE NEM KELL A BORS")
->>>>>>> 94c3aaad2b49e1fc70bf88c6291b03d1ba718139
